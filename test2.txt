@@ -1,2 +1,3 @@
 Some text for file
 More text for file
+Additional text
